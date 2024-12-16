@@ -59,3 +59,10 @@
 
 
 https://github.com/KonghaYao/cn-font-split/tree/release/packages/font-sharp
+
+
+https://github.com/wenzhenl/wefont
+
+https://github.com/aimerneige/LXGWWenKai-Magisk-Simple
+
+https://github.com/wyywwi/zi2zi-chain
